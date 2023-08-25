@@ -1,6 +1,6 @@
 # Foobar
 
-Foobar is a Python library for dealing with word pluralization. asdasd
+Foobar is a Python library for dealing with word pluralization. asdasdas
 
 ## Installation
 
